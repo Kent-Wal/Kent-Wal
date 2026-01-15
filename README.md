@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Second year Computer Science and Math student at the University of Guelph</h3>
+<h3 align="left">Second year Computer Science and Stats student at the University of Guelph</h3>
 
 ###
 
